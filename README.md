@@ -58,3 +58,17 @@
 
 ---
 
+## Conclusion
+
+
+This analysis provided a comprehensive view of U.S. transborder freight activity with Canada and Mexico from 2020 to 2024. By leveraging the CRISP-DM framework, I uncovered key patterns in trade dynamics, transportation efficiency, and environmental impact. The insights gained equip stakeholders with the data-driven perspective needed to inform logistics strategy, optimize trade operations, and support sustainable cross-border commerce.
+
+
+
+
+
+
+
+
+
+
