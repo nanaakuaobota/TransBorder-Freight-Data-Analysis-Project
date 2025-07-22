@@ -1,5 +1,3 @@
-# TransBorder-Freight-Data-Analysis-Project
-
 #  Transborder Freight Analysis (2020–2024)
 
 This project analyzes transborder freight data between the **U.S., Canada, and Mexico** from **2020 to 2024**, focusing on trade patterns, transport modes, cost efficiency, and environmental impact. The goal is to identify inefficiencies, recognize patterns, and propose actionable solutions to improve the overall performance and sustainability of transportation systems
