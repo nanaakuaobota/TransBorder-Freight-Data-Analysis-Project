@@ -1,6 +1,6 @@
 #  Transborder Freight Analysis (2020–2024)
 
-This project analyzes transborder freight data between the **U.S., Canada, and Mexico** from **2020 to 2024**, focusing on trade patterns, transport modes, cost efficiency, and environmental impact. The goal is to identify inefficiencies, recognize patterns, and propose actionable solutions to improve the overall performance and sustainability of transportation systems
+#### This project analyzes transborder freight data between the **U.S., Canada, and Mexico** from **2020 to 2024**, focusing on trade patterns, transport modes, cost efficiency, and environmental impact. The goal is to identify inefficiencies, recognize patterns, and propose actionable solutions to improve the overall performance and sustainability of transportation systems
 ---
 
 ##  Business Questions Addressed
@@ -29,15 +29,15 @@ This project analyzes transborder freight data between the **U.S., Canada, and M
 1. **Trade Surplus**: U.S. exports consistently exceeded imports across the period.
 2. **Truck Dominance**: Trucking accounts for over **$21.4T** in trade value, making it the leading mode by far.
 3. **Even Trade Split**: Trade with **Mexico ($17.19T)** slightly surpasses **Canada ($17.14T)**.
-4. **Weight vs. Value**: While **vessels** carry the most weight, trucks dominate in value — reflecting different cargo types.
+4. **Weight vs. Value**: While **vessels** carry the most weight, trucks dominate in value  reflecting different cargo types.
 5. **Seasonality**: Peak trade occurs in **January–March**, especially January.
-6. **Geographic Leaders**: **Texas** leads with ~$7.46T in trade value, followed by **Michigan** and **California**.
+6. **Geographic Leaders**: **Texas** leads with $7.46T in trade value, followed by **Michigan** and **California**.
 7. **Cost Inefficiency**: States like **Oklahoma (OK)** and **Delaware (DE)** have freight charges exceeding **3.5%** of trade value.
 8. **Environmental Impact**: **Truck transport** emits over **1,070M kg CO₂**, far exceeding other modes.
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 | Focus Area | Action |
 |------------|--------|
@@ -50,7 +50,7 @@ This project analyzes transborder freight data between the **U.S., Canada, and M
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Python** (Pandas, Matplotlib, Seaborn)
 - **Google Colab**
@@ -58,9 +58,3 @@ This project analyzes transborder freight data between the **U.S., Canada, and M
 
 ---
 
-## 🚀 Reproduce This Analysis
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/transborder-freight-analysis.git
-   cd transborder-freight-analysis
