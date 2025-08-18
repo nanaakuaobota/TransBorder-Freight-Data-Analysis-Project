@@ -1,4 +1,4 @@
-#  Transborder Freight Analysis (2020–2024)
+ #  Transborder Freight Analysis (2020–2024)
 
 #### This project analyzes transborder freight data between the **U.S., Canada, and Mexico** from **2020 to 2024**, focusing on trade patterns, transport modes, cost efficiency, and environmental impact. The goal is to identify inefficiencies, recognize patterns, and propose actionable solutions to improve the overall performance and sustainability of transportation systems
 ---
@@ -63,7 +63,7 @@
 
 This analysis provided a comprehensive view of U.S. transborder freight activity with Canada and Mexico from 2020 to 2024. By leveraging the CRISP-DM framework, I uncovered key patterns in trade dynamics, transportation efficiency, and environmental impact. The insights gained equip stakeholders with the data-driven perspective needed to inform logistics strategy, optimize trade operations, and support sustainable cross-border commerce.
 
-Access Power Point Presentation [here](https://azubiafrica-my.sharepoint.com/:p:/g/personal/barbara_addo_azubiafrica_org/EWsZyF208spGiG2icdKT37oB3SuJK_mraVGoTNoCmsxKng?e=HKzc2R)
+Access Power Point Presentation [here](https://azubiafrica-my.sharepoint.com/:p:/g/personal/barbara_addo_azubiafrica_org/EdnzqG0F3olKr4WR4Sv4NkEBmFKppKimvWtdPnNJi1BwWg?e=YUcKpv)
 
 
 
